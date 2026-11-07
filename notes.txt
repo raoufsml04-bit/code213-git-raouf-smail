@@ -1,0 +1,5 @@
+1. Git vs GitHub: Git is a local version control tool that tracks changes in files. GitHub is an online platform that hosts Git repositories and allows collaboration.
+
+2. The four Git storage areas: working directory (where I edit files), staging area (where I prepare changes for a commit), local repository (where commits are saved on my machine), and remote repository (the copy hosted on GitHub).
+
+3. Pre-merge gates: checks such as code review, automated tests, and security scans that must pass before code is merged, so that bugs and vulnerabilities do not reach the main branch.
