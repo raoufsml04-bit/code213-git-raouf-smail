@@ -1,0 +1,1 @@
+My name is Raouf Smail. I am a beginner in DevSecOps, and I have basic experience with computers and Windows. During the Code213 program, I want to master three skills: using Git for version control (commits, branches, and merges), securing access with authentication and access control, and identifying common vulnerabilities in applications.
