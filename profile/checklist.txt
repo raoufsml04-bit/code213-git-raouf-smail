@@ -1,0 +1,4 @@
+1. Never commit secrets such as passwords, API keys, or tokens.
+2. Review my changes with git diff before every commit.
+3. Use a .gitignore file to exclude sensitive and local files.
+4. Write clear, atomic commits with meaningful messages.
